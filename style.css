@@ -1,0 +1,15 @@
+.background{
+    background-color: black;
+    width: 200;
+    cursor: pointer;
+    transition: all 2s;
+}
+
+.background:hover{
+    background-color: white;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
